@@ -1,0 +1,103 @@
+[
+  {
+    "id": "who_iron_folic_acid",
+    "filename": "who_iron_folic_acid_supplementation.pdf",
+    "title": "WHO Guideline: Daily Iron and Folic Acid Supplementation in Pregnant Women",
+    "organization": "World Health Organization (WHO)",
+    "original_url": "https://iris.who.int/handle/10665/77770",
+    "download_url": "https://iris.who.int/server/api/core/bitstreams/402f9d72-6d35-4813-b619-48a3d911a027/content",
+    "topics": [
+      "Maternal Healthcare",
+      "Anaemia Awareness",
+      "Nutrition",
+      "Pregnancy Care"
+    ],
+    "verified": true,
+    "page_count": 32,
+    "file_size_bytes": 1095894
+  },
+  {
+    "id": "who_diarrhoea_treatment",
+    "filename": "who_diarrhoea_treatment_manual.pdf",
+    "title": "The Treatment of Diarrhoea: A Manual for Physicians and Other Senior Health Workers",
+    "organization": "World Health Organization (WHO)",
+    "original_url": "https://iris.who.int/handle/10665/43209",
+    "download_url": "https://iris.who.int/server/api/core/bitstreams/42fb686b-abe5-4fcc-95c0-1c9a00f427a4/content",
+    "topics": [
+      "Dehydration Awareness",
+      "ORS and Zinc",
+      "Child Healthcare",
+      "Diarrhoea Management"
+    ],
+    "verified": true,
+    "page_count": 38,
+    "file_size_bytes": 225826
+  },
+  {
+    "id": "who_immunization_facts",
+    "filename": "who_immunization_myths_facts.pdf",
+    "title": "Myths and Facts About Immunization",
+    "organization": "World Health Organization (WHO)",
+    "original_url": "https://iris.who.int/handle/10665/340058",
+    "download_url": "https://iris.who.int/server/api/core/bitstreams/f9276601-cecd-4282-b27b-8e049559d282/content",
+    "topics": [
+      "Immunization",
+      "Preventive Healthcare",
+      "Vaccine Safety"
+    ],
+    "verified": true,
+    "page_count": 4,
+    "file_size_bytes": 354851
+  },
+  {
+    "id": "unicef_child_nutrition",
+    "filename": "unicef_nutrition_early_childhood.pdf",
+    "title": "Nutrition, for Every Child: Nutrition in Early Childhood Programming Guidance",
+    "organization": "UNICEF",
+    "original_url": "https://www.unicef.org/reports/nutrition-early-childhood-programming-guidance",
+    "download_url": "https://www.unicef.org/media/108441/file/Nutrition-Early-Childhood-Programming-Guidance.pdf",
+    "topics": [
+      "Nutrition",
+      "Malnutrition",
+      "Infant and Young Child Feeding",
+      "Child Healthcare"
+    ],
+    "verified": true,
+    "page_count": 13,
+    "file_size_bytes": 854228
+  },
+  {
+    "id": "mohfw_anemia_mukt_bharat",
+    "filename": "mohfw_anemia_mukt_bharat.pdf",
+    "title": "Anemia Mukt Bharat: Operational Modules for Healthcare Workers",
+    "organization": "Ministry of Health and Family Welfare (MoHFW), Govt. of India",
+    "original_url": "https://ambabhiyaan.mohfw.gov.in/",
+    "download_url": "https://www.i4n.in/wp-content/uploads/2023/05/Anemia-Mukt-Bharat-Training-Modules-english.pdf",
+    "topics": [
+      "Anaemia Awareness",
+      "Rural Healthcare Services",
+      "IFA Regimen",
+      "Maternal and Child Healthcare"
+    ],
+    "verified": true,
+    "page_count": 120,
+    "file_size_bytes": 3429402
+  },
+  {
+    "id": "who_sanitation_health",
+    "filename": "who_sanitation_and_health_guidelines.pdf",
+    "title": "WHO Guidelines on Sanitation and Health",
+    "organization": "World Health Organization (WHO)",
+    "original_url": "https://iris.who.int/handle/10665/274939",
+    "download_url": "https://iris.who.int/server/api/core/bitstreams/82211f41-d366-4b09-b288-cd20c6f1efbb/content",
+    "topics": [
+      "Hygiene and Sanitation",
+      "WASH",
+      "Preventive Healthcare",
+      "Disease Prevention"
+    ],
+    "verified": true,
+    "page_count": 6,
+    "file_size_bytes": 384512
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "configuration": "Fixed-800-0",
+    "method": "fixed",
+    "chunk_size": 800,
+    "chunk_overlap": 0,
+    "total_chunks": 656,
+    "mean_chunk_chars": 661.72,
+    "hit_rate_at_4": 0.9375,
+    "recall_at_4": 0.8281,
+    "mrr_at_4": 0.8646,
+    "avg_retrieval_latency_ms": 11.16,
+    "experiment_time_seconds": 7.95
+  },
+  {
+    "configuration": "Recursive-500-100",
+    "method": "recursive",
+    "chunk_size": 500,
+    "chunk_overlap": 100,
+    "total_chunks": 1195,
+    "mean_chunk_chars": 401.06,
+    "hit_rate_at_4": 1.0,
+    "recall_at_4": 0.8906,
+    "mrr_at_4": 0.9688,
+    "avg_retrieval_latency_ms": 11.66,
+    "experiment_time_seconds": 8.6
+  },
+  {
+    "configuration": "Recursive-800-150",
+    "method": "recursive",
+    "chunk_size": 800,
+    "chunk_overlap": 150,
+    "total_chunks": 768,
+    "mean_chunk_chars": 620.14,
+    "hit_rate_at_4": 1.0,
+    "recall_at_4": 0.8906,
+    "mrr_at_4": 0.9688,
+    "avg_retrieval_latency_ms": 11.33,
+    "experiment_time_seconds": 8.21
+  },
+  {
+    "configuration": "Recursive-1200-200",
+    "method": "recursive",
+    "chunk_size": 1200,
+    "chunk_overlap": 200,
+    "total_chunks": 529,
+    "mean_chunk_chars": 883.38,
+    "hit_rate_at_4": 1.0,
+    "recall_at_4": 0.9062,
+    "mrr_at_4": 0.9688,
+    "avg_retrieval_latency_ms": 11.29,
+    "experiment_time_seconds": 7.99
+  }
+]

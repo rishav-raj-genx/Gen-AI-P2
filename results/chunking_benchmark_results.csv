@@ -1,0 +1,5 @@
+configuration,method,chunk_size,chunk_overlap,total_chunks,mean_chunk_chars,hit_rate_at_4,recall_at_4,mrr_at_4,avg_retrieval_latency_ms,experiment_time_seconds
+Fixed-800-0,fixed,800,0,656,661.72,0.9375,0.8281,0.8646,11.16,7.95
+Recursive-500-100,recursive,500,100,1195,401.06,1.0,0.8906,0.9688,11.66,8.6
+Recursive-800-150,recursive,800,150,768,620.14,1.0,0.8906,0.9688,11.33,8.21
+Recursive-1200-200,recursive,1200,200,529,883.38,1.0,0.9062,0.9688,11.29,7.99
